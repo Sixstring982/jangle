@@ -1,0 +1,9 @@
+*~
+*.swp
+tarballs/
+.stack-work/
+dist-newstyle/
+result
+
+.direnv/
+.envrc
